@@ -11,7 +11,7 @@ Note- it is very basic just build for practice.
 
 
 
-# Hi, I'm Sumit! 👋
+# Hi, I'm Pardeep! 👋
 
 
 ## Getting Start
